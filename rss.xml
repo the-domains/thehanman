@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thehanman]]></title>
+        <description><![CDATA[thehanman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 02:11:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alaskan Tease]]></title>
+            <description><![CDATA[<article><h1>Alaskan Tease</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/519aea3810b5ae82595bed5195460b4dab0e070a.jpg"></article>]]></description>
+            <link>undefinedalaskan-tease/index.html</link>
+            <guid isPermaLink="false">21ee643f-6b86-4e51-9911-1bb90f903c67</guid>
+            <pubDate>Tue, 22 Dec 2015 02:11:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
